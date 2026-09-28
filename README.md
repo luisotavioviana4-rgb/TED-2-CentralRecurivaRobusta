@@ -1,4 +1,4 @@
-TED-2-CentralRecurivaRobusta
+TED-2-CentralRecursivaRobusta
 Integrantes da dupla:
 
     Divivo Rafael Abade Oliveira (26.1.14744)
